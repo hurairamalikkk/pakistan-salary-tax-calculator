@@ -1,0 +1,35 @@
+.pstc-wrapper {
+  max-width: 420px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.pstc-wrapper input,
+.pstc-wrapper select,
+.pstc-wrapper button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.pstc-wrapper button {
+  cursor: pointer;
+}
+
+.pstc-wrapper #pstc-result {
+  margin-top: 12px;
+  padding: 10px;
+  border-top: 1px solid #eee;
+  font-size: 14px;
+}
+
+.pstc-disclaimer {
+  font-size: 12px;
+  margin-top: 10px;
+  opacity: 0.7;
+}
